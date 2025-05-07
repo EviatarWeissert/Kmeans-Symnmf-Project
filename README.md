@@ -1,0 +1,1 @@
+This project implements K-Means clustering and Symmetric Non-negative Matrix Factorization (SymNMF) algorithms for efficient unsupervised learning on large datasets using a hybrid Python-C architecture.
